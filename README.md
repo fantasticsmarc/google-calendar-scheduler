@@ -1,4 +1,4 @@
-# Schedule
+# Google Calendar Schedule
 
 Task scheduling connected to Google Calendar API to connect the events and your Google account.
 <br>
